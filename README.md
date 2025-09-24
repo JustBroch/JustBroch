@@ -16,6 +16,6 @@ I enjoy creative projects and have collected a few of them here on Github. Feel 
 - **Chef de Cuisine** - Full-stack recipe app with React/Flask deployed to AWS
 - **LoopedIn** - Tech platform focused on accessibility and WCAG 2.2 compliance
 
-## 📫 Get in touch. I'm always up for a coffee!
+## ☕ Get in touch. I'm always up for a coffee!
 - LinkedIn: [linkedin.com/in/justbroch](https://linkedin.com/in/justbroch)
 - Email: just1998@live.no
