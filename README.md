@@ -1,16 +1,16 @@
 # Hi there! 👋 I'm Just
 
-**5th year M.Sc. Computer Science student at NTNU**
+**5th year M.Sc. Computer Science student at NTNU, specializing in Databases and Search**
 
-🎓 Specializing in Databases and Search
-💼 Experience in fintech and full-stack development
-😄 Social by nature – I enjoy solo backpacking, sports, music, entrepreneurship, and creative projects.
+- 🎓 Writing a Master Thesis in Bio AI Techniques for music recommendation. 
+- 💼 Experience in fintech and full-stack development
+- 😄 Social by nature – I enjoy solo backpacking, sports, music, entrepreneurship, and creative projects.
 
 ## 🛠️ Technologies
 **Backend:** Python, Java, SQL, Flask  
 **Frontend:** React, TypeScript, HTML/CSS, JavaScript  
-**Cloud & DevOps:** AWS, Docker, Terraform  
-**Databases:** PostgreSQL
+**Cloud & DevOps:** AWS, Docker  
+**Databases:** SQL
 
 ## 🚀 Featured projects
 - **Chef de Cuisine** - Full-stack recipe app with React/Flask deployed to AWS
